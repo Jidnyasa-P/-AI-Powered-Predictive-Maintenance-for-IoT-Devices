@@ -1,0 +1,6 @@
+{
+  "name": "IoT Predictive Maintenance AI",
+  "description": "An industrial-grade simulation of an AI-powered predictive maintenance system for IoT devices, featuring real-time telemetry and failure prediction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
