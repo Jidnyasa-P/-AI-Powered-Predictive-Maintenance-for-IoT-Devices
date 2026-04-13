@@ -7,6 +7,8 @@
 
 An end-to-end industrial IoT solution that uses **Machine Learning** to predict equipment failures before they occur. This project simulates real-world sensor data (Temperature, Vibration, Current) and provides an AI-driven dashboard for real-time monitoring and failure alerts.
 
+Prototype Link : [Link](https://ai.studio/apps/a0451f25-f87b-4c26-84ce-c0eb30b94ee1?fullscreenApplet=true)
+
 ---
 
 ## 📖 Project Overview
@@ -102,6 +104,10 @@ The dashboard visualizes live streams of Temperature, Vibration, and Current. Wh
 - **Algorithm:** Random Forest Classifier
 - **Accuracy:** ~98% (on simulated data)
 - **Features:** Temperature, Vibration, Current
+  
+<img width="1513" height="878" alt="Screenshot 2026-04-13 200851" src="https://github.com/user-attachments/assets/f70f2bfe-b8c8-48fa-ab0a-2f1d85c90039" />
+
+<img width="1337" height="855" alt="Screenshot 2026-04-13 200905" src="https://github.com/user-attachments/assets/a02a6ffc-8230-4057-bb3c-072b93a70061" />
 
 ---
 
@@ -111,5 +117,3 @@ The dashboard visualizes live streams of Temperature, Vibration, and Current. Wh
 - Creating **Real-time Data Visualizations** with React and Recharts.
 - Understanding **Industrial IoT** workflows and predictive maintenance logic.
 
----
-*Developed as a proof-of-work project for industrial AI placements.*
